@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Canonical annuncia la disponibilità di Ubuntu Pro",
+      "url": "https://edge9.hwupgrade.it/news/innovazione/canonical-annuncia-la-disponibilita-di-ubuntu-pro_113735.html",
+      "like": 96
+    },
+    {
+      "id": 2,
+      "title": "Cosa vedere in Giappone: le località da esplorare",
+      "url": "https://www.watabi.it/blog/viaggiare-in-giappone/cosa-vedere-in-giappone/",
+      "like": 42
+    },
+    {
+      "id": 3,
+      "title": "Server",
+      "url": "https://my-json-server.typicode.com/PaoloCarugati/dischi/db",
+      "link": 78
+    }
+  ]
+}
